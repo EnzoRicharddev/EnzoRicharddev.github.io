@@ -110,7 +110,7 @@ nav a.active::after {
 main {
     flex: 1;
     padding: 36px 40px;
-    background: var(--bg-dark);
+    background-image: url(../images/stock-photo-software-developer-programming-code-on-computer-abstract-computer-script-source-code-shallow-2459611631.jpg);
 }
 
 .grid-layout {
